@@ -3,9 +3,7 @@ import './app.css';
 import Dashboard from './pages/dashboard';
 
 function App() {
-  return (
-    <Dashboard />
-  );
+  return <Dashboard />;
 }
 
 export default App;
